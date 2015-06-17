@@ -6,3 +6,4 @@ A list of JS frameworks for mobile apps
 * [NativeScript](https://www.nativescript.org/) - Create mobile apps using HTML/CSS/JS, creates truly native apps for iOS/Android/Windows Phone. 
 * [App.js](http://code.kik.com/app/3/index.html) - Create mobile apps using HTML/CSS/JS.
 * [Cordova](https://cordova.apache.org/) - Create mobile apps using HTML/CSS/JS, runs in a webview.
+* [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React.
